@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Golden Shield of Confidence -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,24 L82,33 C82,53 82,65 82,67 C82,80 70,90 54,94 C38,90 26,80 26,67 C26,65 26,33 26,33 L54,24 Z" />
+        
+    <!-- Inner Dark Core Shield -->
+    <path
+        android:fillColor="#0D1127"
+        android:pathData="M54,29 L77,36 C77,52 77,63 77,65 C77,76 66,85 54,89 C42,85 31,76 31,65 C31,63 31,36 31,36 L54,29 Z" />
+
+    <!-- Startup Projections Bar Graph (Golden Growth) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M40,68 H44 V52 H40 V68 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M47,68 H51 V44 H47 V44 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,68 H58 V38 H54 V38 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M61,68 H65 V48 H61 V48 Z" />
+
+    <!-- Validated Overlay Checkmark (Success Certification) -->
+    <path
+        android:strokeWidth="4"
+        android:strokeColor="#FFD700"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,51 L51,59 L65,41" />
+
+</vector>

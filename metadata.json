@@ -1,0 +1,6 @@
+{
+  "name": "AI Startup Validator",
+  "description": "An AI-powered SaaS companion to validate startup ideas, perform competitor analysis, SWOT, MVPs, and pitch deck creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
